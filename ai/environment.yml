@@ -1,0 +1,7 @@
+name: hello-world
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.8
+  - r-base=4.4.3
+  - pip=24.3.1
